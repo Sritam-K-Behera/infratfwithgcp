@@ -34,4 +34,4 @@ override.tf.json
 terraform.rc
 
 #Ignore GCP SVC Key
-lateral-academy-svc-key-gcp.json
+svc-key-gcp.json
